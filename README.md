@@ -2,3 +2,7 @@
 Just another hello world repository.
 
 I'm trying github.
+
+Hi all,
+first time I'm using github. so I don't know what happens.
+
